@@ -1,0 +1,7 @@
+{
+  "name": "LuminaPOS - Smart Offline Cashier",
+  "description": "A feature-rich, high-performance offline cashier application with AI-powered insights, inventory management, and seamless transaction processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
